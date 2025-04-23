@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**keyursk20/keyursk20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Keyur Solanki</h1>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **React, APIs, and MongoDB performance optimization**
+- 👨‍💻 All of my projects are available at [GitHub Profile](https://github.com/keyursk20)
+- 💬 Ask me about **Node.js, Express, MongoDB, and JavaScript**
+- 📫 How to reach me: **solankikeyur2005@gmail.com**
+- ⚡ Fun fact: I love turning ideas into real apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+- 💻 Languages: JavaScript, HTML, CSS
+- 🔧 Frameworks & Libraries: Node.js, Express.js, React.js
+- 🛢️ Databases: MongoDB
+- ⚙️ Tools: Git, Jira, Postman
+
+### 📈 GitHub Stats
+![Keyur's GitHub stats](https://github-readme-stats.vercel.app/api?username=keyursk20&show_icons=true&theme=radical)
+
